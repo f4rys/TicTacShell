@@ -1,21 +1,19 @@
 # TicTacShell
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<div>Compete against computer in Linux shell version of TicTacToe game.</div>
+Compete against a computer in a Linux shell version of the TicTacToe game.
 
 <br/>
-
 <div align="center">
   <p>
-    <img src="https://imgur.com/OhRRkdI.png"/>
+    <img src="preview.png"/>
   </p>
 </div>
 
 ## Running
-<div>This script can run in Linux enviroment or in Windows, after setting environment to run shell scripts in terminal.</div>
-<br/>
-<div>To run the game use the following command in terminal:</div>
+This script can run in a Linux environment and Windows, after setting the environment to run shell scripts in the terminal.
 
-<br/>
+To run the game use the following command in the terminal:
 
 ```
 sh TicTacToe.sh
