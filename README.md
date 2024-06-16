@@ -1,7 +1,7 @@
 # TicTacShell
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Compete against a computer in a Linux shell version of the TicTacToe game.
+Compete against a computer in a Linux shell version of the TicTacToe game. This is an assignment for the subject Operating Systems.
 
 <br/>
 <div align="center">
